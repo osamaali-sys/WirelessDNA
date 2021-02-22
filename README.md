@@ -24,16 +24,45 @@ The text below is copied verbatim from the email
 
 At wirelessDNA, Fido sales dominate the market-share against Rogers with over 7 to 1 ratio. Although the related cost of the contracts can be tracked and forecasted on a timesheet, Revenue for wirelessDNA is contingent on HDW (hardware) sales and other services such as internet, prepaid, mastercard, MBB, SMB and voice plans. The sales of HDW can be broken down into different levels such as brand, district, unit and devices and further categorized by how much revenue they generate and how often they have the risk of being returned or refunded.
 
-This data is available in excel (Dummy Sales Data.xlsx) format. Two tables were provided in two sheets HDW sales and Service Products. 
 
-The dashboard is created in powerbi.
+#### Data
+
+This data is available in excel (Dummy Sales Data.xlsx) format. Two tables were provided in two sheets HDW sales and Service Products. The tables were joined on 'Sold On'
+
+
+#### Dashboard
+The dashboard is created in powerbi. It reflects sales numbers over the course of two years, and devided into brand, district and units.
 
 ![](images/Dashboard.png)
 
 
+#### Brand View
 
 
-Observation
+![](images/brand_view.png)
+
+#### Unit View
+
+![](images/unit_view.png)
+
+
+#### Refunds
+
+![](images/refunds_view.png)
+
+
+#### Hardware overview
+
+![](images/hdw_view.png)
+
+
+#### Types of Services
+
+![](images/product_view.png)
+
+
+
+### Observation
 •	Refunded sales were adding to total of related cost. Transformed the data set to be more accurate
 •	Date was in decimal format
 •	There were few blank rows of data which I removed for more accurate results
