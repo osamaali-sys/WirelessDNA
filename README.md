@@ -19,3 +19,24 @@ The text below is copied verbatim from the email
 - [] Prepare dashboard with multiple metrics relevant to the data set based on your understanding of the data and your expertise to help management understand the levers better and drive decisions based on your insights.
 - [] Make the dashboard dynamic so that it can be drilled down to individual unit as well as can be seen at organization level.
 - [] Prepare an executive presentation, story telling of the data with insights. Also share how you evaluated the data and what other sources you will like to see to drive better reporting.
+
+### Summary of Analysis
+
+At wirelessDNA, Fido sales dominate the market-share against Rogers with over 7 to 1 ratio. Although the related cost of the contracts can be tracked and forecasted on a timesheet, Revenue for wirelessDNA is contingent on HDW (hardware) sales and other services such as internet, prepaid, mastercard, MBB, SMB and voice plans. The sales of HDW can be broken down into different levels such as brand, district, unit and devices and further categorized by how much revenue they generate and how often `they have the risk of being returned or refunded.
+
+
+
+
+
+Observation
+•	Refunded sales were adding to total of related cost. Transformed the data set to be more accurate
+•	Date was in decimal format
+•	There were few blank rows of data which I removed for more accurate results
+•	Fido is $130 cheaper than Rogers
+
+
+Opportunity
+•	Mitigation of refunds. For all the sales performed. 3.7% are being refunded or exchanged. 
+•	Small business plans have a higher ROI. We should take time to train staff on presenting business options to industry professional who might have their own registered business i.e. accountant, contractors, lawyers, plumbers, electricians etc
+•	Multiple lines/add a line
+•	Utilizing high profit devices such as iphone SE, older blackberry devices/clearance devices
