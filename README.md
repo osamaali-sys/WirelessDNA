@@ -38,6 +38,7 @@ The dashboard is created in powerbi. It reflects sales numbers over the course o
 
 #### Brand View
 
+Fido holds the preponderance position amongst all brands.
 
 ![](images/brand_view.png)
 
@@ -53,10 +54,15 @@ The dashboard is created in powerbi. It reflects sales numbers over the course o
 
 #### Hardware overview
 
+iphone XR had the highest volume of sales in terms of quantity sold and turnover genereated.
+
+
 ![](images/hdw_view.png)
 
 
 #### Types of Services
+
+Majority of the turnover generated for WirelessDNA is from NAC (New Avtivations). Although SMB (small business) is the most profitable product which should be prioritized.
 
 ![](images/product_view.png)
 
