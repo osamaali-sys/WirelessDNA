@@ -22,8 +22,13 @@ The text below is copied verbatim from the email
 
 ### Summary of Analysis
 
-At wirelessDNA, Fido sales dominate the market-share against Rogers with over 7 to 1 ratio. Although the related cost of the contracts can be tracked and forecasted on a timesheet, Revenue for wirelessDNA is contingent on HDW (hardware) sales and other services such as internet, prepaid, mastercard, MBB, SMB and voice plans. The sales of HDW can be broken down into different levels such as brand, district, unit and devices and further categorized by how much revenue they generate and how often `they have the risk of being returned or refunded.
+At wirelessDNA, Fido sales dominate the market-share against Rogers with over 7 to 1 ratio. Although the related cost of the contracts can be tracked and forecasted on a timesheet, Revenue for wirelessDNA is contingent on HDW (hardware) sales and other services such as internet, prepaid, mastercard, MBB, SMB and voice plans. The sales of HDW can be broken down into different levels such as brand, district, unit and devices and further categorized by how much revenue they generate and how often they have the risk of being returned or refunded.
 
+This data is available in excel (Dummy Sales Data.xlsx) format. Two tables were provided in two sheets HDW sales and Service Products. 
+
+The dashboard is created in powerbi.
+
+![](images/Dashboard.png)
 
 
 
