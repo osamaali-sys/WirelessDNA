@@ -64,13 +64,21 @@ The dashboard is created in powerbi. It reflects sales numbers over the course o
 
 ### Observation
 •	Refunded sales were adding to total of related cost. Transformed the data set to be more accurate
+
 •	Date was in decimal format
+
 •	There were few blank rows of data which I removed for more accurate results
+
 •	Fido is $130 cheaper than Rogers
 
 
-Opportunity
+
+### Opportunity
+
 •	Mitigation of refunds. For all the sales performed. 3.7% are being refunded or exchanged. 
+
 •	Small business plans have a higher ROI. We should take time to train staff on presenting business options to industry professional who might have their own registered business i.e. accountant, contractors, lawyers, plumbers, electricians etc
+
 •	Multiple lines/add a line
+
 •	Utilizing high profit devices such as iphone SE, older blackberry devices/clearance devices
